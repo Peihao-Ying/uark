@@ -1,0 +1,8 @@
+{
+  "name": "whatever",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Peihao-Ying/whatever.git",
+  "author": "alpasbyy <tonyying02@gmail.com>",
+  "license": "MIT"
+}
